@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+Deyvi Luis Ortiz Rosario 2075107
 
-You can use the [editor on GitHub](https://github.com/deyort/mycv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Calle quinta #238 Tel: 849-200-2001
+Datos Generales
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    Fecha de nacimiento: 20/01/1980
+    Cedula: 004-2356908-9
+    Email: deyort@gmail.com
 
-### Markdown
+Estudios Realizados
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    Técnico en informática, paquete de office - CENTU
+    Diseños de páginas web en Dreamwaever 6.0 [infotep]
+    Seminario sobre el desarrollo humano y crecimiento personal [9/08/09 idecil]
+    Técnico de monitor plus PLUS – TI - [Banco BHDLeon]
+    Instalación, configuración y administración Windows Server 2012 [TeKnowLogic]
+    Diplomado de SQL Básico y Avanzado [icat INFOREDES]
+    Datadomain [Administración y configuración] - [Banco BHDLeon]
+    Administración de la herramienta de monitoreo Spectrum [Banco BHDLeon]
+    Veritas Netbackup Advance (Administration) - [Banco BHDLeon]
+    Linux - Gcsa: Gnu Certified System Administrator [Academia Código Libre]
+    Cisco Certified Network Associated – CCNA (Primer Modulo) [INTEC]
+    NDG Linux Unhatched [NETACAD]
+    Administración de la plataforma Check Point [ASYSTEC, SRL]
+    Introducción a Docker [Keepcoding]
+    Cisco Certified Network Associated – CCNA (Primer Modulo) [INTEC]
+    Administrador de servidores Fundación Carlos Slim
+    Fundamentos del cómputo en la nube [Capacítate para el empleo | Fundación Carlos Slim]
 
-```markdown
-Syntax highlighted code block
+Pasa Tiempos
 
-# Header 1
-## Header 2
-### Header 3
+    Consolas de juegos (Playstation)
+    Cine
+    Series
+    Salir en familia (Resort, Compartir en casas y etc.) 
 
-- Bulleted
-- List
+Idiomas que domina
 
-1. Numbered
-2. List
+    Ingles (Intermedio)
 
-**Bold** and _Italic_ and `Code` text
+Mis 3 peliculas favoritas
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deyort/mycv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    Interestelar
+    Predestination
+    Memento
